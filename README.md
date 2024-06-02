@@ -5,10 +5,12 @@ This serves a backend-test for the main web-app built using Flask and React
 
 ## Requirements
 
-python
+python<br/>
 pandas 
 numpy
 matplotlib
 openpyxl
 
 installation:pip install "library"
+
+As of now
