@@ -14,6 +14,7 @@ openpyxl<br/>
 
 installation: ! pip install "library" in jupyter
 <br/>
-the data cleaning file cleans and renames stages of a raw-file given. It can be formatted based on the requirement which provides the updated and pre-processed csv file.
+<br/>
+The data cleaning file cleans and renames stages of a raw-file given. It can be formatted based on the requirement providing the updated and pre-processed csv file.
 <br/>
 This coding works for a particular bus-day as of now. 
