@@ -1,4 +1,4 @@
-## Bus-Transit-Analysis
+## Estimation of Dynamic OD Matrix for Public Transit Assignment
 
 Analysis of bus transit system using python in jupyter-notebook<br/>
 This serves a backend-test for the main web-app built using Flask and React
